@@ -1,6 +1,7 @@
-# EDA
-＃chinese EDA from《EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks》的代码实现
-＃引用内容https://github.com/zhanlaoban/EDA_NLP_for_Chinese后，针对自己需求做如下修改，１，加入中文检测，之前发现替换结果中有非中文存在,
+#EDA
+# chinese EDA from《EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks》的代码实现
+# 引用内容https://github.com/zhanlaoban/EDA_NLP_for_Chinese
+后，针对自己需求做如下修改，１，加入中文检测，之前发现替换结果中有非中文存在,
 ＃２, 修改为替换近似最高和次高的词。
 ＃＃　使用方法
 '''
