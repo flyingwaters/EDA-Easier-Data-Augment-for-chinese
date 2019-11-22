@@ -1,4 +1,4 @@
-# EDA
+# EDA_用近义词替换句子中的词
  chinese EDA from<a href="https://arxiv.org/abs/1901.11196" target="_blank">《EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks》</a>的代码实现
  参考https://github.com/zhanlaoban/EDA_NLP_for_Chinese
  针对自己需求做如下修改，
