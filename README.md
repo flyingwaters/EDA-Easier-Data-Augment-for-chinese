@@ -14,6 +14,4 @@
 ```
 $ python EDA,py --alpha 0.1 --num_aug 9
 分别为每句话替换单词的比例(--alpha)，以及生成增强的句子个数(--num_aug)
-
-
 ```
