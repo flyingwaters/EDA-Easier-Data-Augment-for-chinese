@@ -1,9 +1,9 @@
-#EDA
+# EDA
  chinese EDA from《EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks》的代码实现
  参考https://github.com/zhanlaoban/EDA_NLP_for_Chinese
  针对自己需求做如下修改，
-     +1.加入中文检测，之前发现替换结果中有非中文存在,
-     +2.改为替换近似最高和次高的词。
+     + 1.加入中文检测，之前发现替换结果中有非中文存在,
+     + 2.改为替换近似最高和次高的词。
 ##　使用方法
 '''
 修改if __name__ = "__main__": 下的open()路径，作为输入路径
